@@ -1,1 +1,4 @@
 # SNHU-CS255
+
+The project was for a company named Driverpass. They wanted to create a business for student drivers that helped prepare them to drive. The DriverPass's system is a web-based application that provided online classes and practice tests. DriverPass also provided on-the-road training via reservations.
+One thing I feel I did well in was finding the different types of actors for the use case diagram. Some actors may not play a big part but still exist in the overall system. Looking back at the projects one thing I'd like to revise is the class diagram. I would of like to go into more detail on the methods that would have to be used for the system to function. In order to interpret the user's needs I had to find the use cases. This was used to design how the system would function as a whole. To design software in the future I would definitely pay attention to the user's needs. These needs will be used to create the use cases to start the design process. 
